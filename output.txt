@@ -1,0 +1,8 @@
+You have borrowed: The Great Gatsby
+Bob cannot borrow the book "The Great Gatsby" as it is unavailable.
+You have returned: The Great Gatsby
+You have borrowed: The Great Gatsby
+You have borrowed: To Kill a Mockingbird
+You have borrowed: 1984
+You have returned: To Kill a Mockingbird
+You have returned: 1984
